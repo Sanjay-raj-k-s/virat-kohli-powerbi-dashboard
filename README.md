@@ -1,4 +1,4 @@
-# 🏏 Virat Kohli Performance Dashboard (Power BI)
+# 🏏 Virat Kohli Performance Dashboard | Power BI | Data Analytics Project
 
 ## 📊 Project Overview
 This project presents an interactive Power BI dashboard analyzing the performance of Virat Kohli across different cricket formats, opponents, and venues.
