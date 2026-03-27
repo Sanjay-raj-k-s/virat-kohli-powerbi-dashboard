@@ -32,7 +32,7 @@ The dashboard focuses on extracting meaningful insights from cricket data using 
 ---
 
 ## 🎥 Demo
-👉 (https://www.linkedin.com/posts/sanjayrajks_powerbi-dataanalytics-datavisualization-activity-7443263639022833664-v_I4)
+👉 https://www.linkedin.com/posts/sanjayrajks_powerbi-dataanalytics-datavisualization-activity-7443263639022833664-v_I4
 
 ---
 
@@ -50,4 +50,4 @@ The dashboard focuses on extracting meaningful insights from cricket data using 
 ---
 
 ## 🔗 Connect with Me
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/sanjayrajks/
